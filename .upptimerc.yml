@@ -12,7 +12,7 @@ sites:
     logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/NoSocialMediaBans.png
   - name: NoSocialMediaBans Lite
     url: https://socialmediabans-lite.ktrain5369.me/
-    logo: logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/NoSocialMediaBans.png
+    logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/NoSocialMediaBans.png
   - name: CatPack Crafter docs
     url: https://catpacks.ktrain5369.me/
   - name: Stardust info website
@@ -26,6 +26,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ktrain5369.me
   logoUrl: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/ktrain5369.png
+  favicon: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/ktrain5369.png
   name: Status for KTrain5169/KTools2202 sites
   introTitle: "KTrain5169/KTools2202 status page"
   introMessage: Status for all web services operated under the KTrain5169 & KTools2202 accounts.
