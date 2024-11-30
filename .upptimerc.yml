@@ -6,28 +6,29 @@ user-agent: KTrain5169 uptime tracker
 sites:
   - name: Root website (ktrain5369.me)
     url: https://ktrain5369.me/
-    logo: https://ktrain5369.me/favicon.png
+    logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/ktrain5369.png
   - name: NoSocialMediaBans
     url: https://socialmediabans.ktrain5369.me/
-    logo: https://socialmediabans.ktrain5369.me/favicon.png
+    logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/NoSocialMediaBans.png
   - name: NoSocialMediaBans Lite
     url: https://socialmediabans-lite.ktrain5369.me/
-    logo: https://socialmediabans-lite.ktrain5369.me/favicon.png
+    logo: logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/NoSocialMediaBans.png
   - name: CatPack Crafter docs
     url: https://catpacks.ktrain5369.me/
   - name: Stardust info website
     url: https://stardust.ktrain5369.me/
   - name: Git redirects
     url: https://git.ktrain5369.me/
+    logo: logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/git.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ktrain5369.me
-  logoUrl: https://ktrain5369.me/favicon.png
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/ktrain5369.png
+  name: Status for KTrain5169/KTools2202 sites
+  introTitle: "KTrain5169/KTools2202 status page"
+  introMessage: Status for all web services operated under the KTrain5169 & KTools2202 accounts.
   navbar:
     - title: Status
       href: /
