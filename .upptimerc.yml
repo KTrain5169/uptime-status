@@ -19,7 +19,7 @@ sites:
     url: https://stardust.ktrain5369.me/
   - name: Git redirects
     url: https://git.ktrain5369.me/
-    logo: logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/git.png
+    logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/git.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
