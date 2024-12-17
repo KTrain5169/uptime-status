@@ -4,107 +4,119 @@
     "url": "https://ktrain5369.me/",
     "icon": "https://icons.duckduckgo.com/ip3/ktrain5369.me.ico",
     "slug": "root-website-ktrain5369-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 100,
-    "timeWeek": 186,
-    "timeMonth": 220,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "time": 227,
+    "timeDay": 288,
+    "timeWeek": 221,
+    "timeMonth": 227,
+    "timeYear": 227,
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "NoSocialMediaBans",
     "url": "https://socialmediabans.ktrain5369.me/",
     "icon": "https://icons.duckduckgo.com/ip3/socialmediabans.ktrain5369.me.ico",
     "slug": "no-social-media-bans",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 229,
-    "timeWeek": 220,
-    "timeMonth": 242,
-    "timeYear": 242,
-    "dailyMinutesDown": {}
+    "time": 244,
+    "timeDay": 260,
+    "timeWeek": 227,
+    "timeMonth": 244,
+    "timeYear": 244,
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "NoSocialMediaBans Lite",
     "url": "https://socialmediabans-lite.ktrain5369.me/",
     "icon": "https://icons.duckduckgo.com/ip3/socialmediabans-lite.ktrain5369.me.ico",
     "slug": "no-social-media-bans-lite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 89,
-    "timeWeek": 219,
+    "timeDay": 206,
+    "timeWeek": 204,
     "timeMonth": 198,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "CatPack Crafter docs",
     "url": "https://catpacks.ktrain5369.me/",
     "icon": "https://icons.duckduckgo.com/ip3/catpacks.ktrain5369.me.ico",
     "slug": "cat-pack-crafter-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 268,
-    "timeWeek": 162,
-    "timeMonth": 223,
-    "timeYear": 223,
-    "dailyMinutesDown": {}
+    "time": 220,
+    "timeDay": 193,
+    "timeWeek": 171,
+    "timeMonth": 220,
+    "timeYear": 220,
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "Stardust info website",
     "url": "https://stardust.ktrain5369.me/",
     "icon": "https://icons.duckduckgo.com/ip3/stardust.ktrain5369.me.ico",
     "slug": "stardust-info-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 408,
-    "timeWeek": 216,
-    "timeMonth": 197,
-    "timeYear": 197,
-    "dailyMinutesDown": {}
+    "time": 189,
+    "timeDay": 124,
+    "timeWeek": 196,
+    "timeMonth": 189,
+    "timeYear": 189,
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "Git redirects",
     "url": "https://git.ktrain5369.me/",
     "icon": "https://icons.duckduckgo.com/ip3/git.ktrain5369.me.ico",
     "slug": "git-redirects",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 449,
-    "timeWeek": 219,
-    "timeMonth": 230,
-    "timeYear": 230,
-    "dailyMinutesDown": {}
+    "time": 226,
+    "timeDay": 192,
+    "timeWeek": 204,
+    "timeMonth": 226,
+    "timeYear": 226,
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   }
 ]
