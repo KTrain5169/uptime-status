@@ -4,27 +4,27 @@ repo: uptime-status # The name of this repository
 user-agent: KTrain5169 uptime tracker
 
 sites:
-  - name: Root website (ktrain5369.me)
-    url: https://ktrain5369.me/
+  - name: Root website (ktrain5369.dev)
+    url: https://ktrain5369.dev/
     logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/ktrain5369.png
   - name: NoSocialMediaBans
-    url: https://socialmediabans.ktrain5369.me/
+    url: https://socialmediabans.ktrain5369.dev/
     logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/NoSocialMediaBans.png
   - name: NoSocialMediaBans Lite
-    url: https://socialmediabans-lite.ktrain5369.me/
+    url: https://socialmediabans-lite.ktrain5369.dev/
     logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/NoSocialMediaBans.png
   - name: CatPack Crafter docs
-    url: https://catpacks.ktrain5369.me/
+    url: https://catpacks.ktrain5369.dev/
   - name: Stardust info website
-    url: https://stardust.ktrain5369.me/
+    url: https://stardust.ktrain5369.dev/
   #- name: Git redirects
-    #url: https://git.ktrain5369.me/
+    #url: https://git.ktrain5369.dev/
     #logo: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/git.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.ktrain5369.me
+  cname: status.ktrain5369.dev
   logoUrl: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/ktrain5369.png
   favicon: https://raw.githubusercontent.com/KTrain5169/uptime-status/refs/heads/master/assets/ktrain5369.png
   name: Status for KTrain5169/KTools2202 sites
