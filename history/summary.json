@@ -11,9 +11,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
     "time": 179,
-    "timeDay": 174,
-    "timeWeek": 213,
-    "timeMonth": 207,
+    "timeDay": 169,
+    "timeWeek": 203,
+    "timeMonth": 208,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2026-04-09": 63,
@@ -33,8 +33,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 227,
-    "timeDay": 212,
-    "timeWeek": 217,
+    "timeDay": 158,
+    "timeWeek": 212,
     "timeMonth": 202,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -55,8 +55,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 213,
-    "timeDay": 151,
-    "timeWeek": 209,
+    "timeDay": 165,
+    "timeWeek": 203,
     "timeMonth": 188,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -71,15 +71,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/catpacks.ktrain5369.dev.ico",
     "slug": "cat-pack-crafter-docs",
     "status": "up",
-    "uptime": "70.24%",
+    "uptime": "70.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.01%",
+    "uptimeYear": "87.29%",
     "time": 188,
-    "timeDay": 291,
-    "timeWeek": 218,
-    "timeMonth": 199,
+    "timeDay": 210,
+    "timeWeek": 228,
+    "timeMonth": 201,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2025-11-18": 94,
@@ -130,8 +130,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -146,10 +145,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 189,
-    "timeDay": 298,
-    "timeWeek": 205,
-    "timeMonth": 186,
-    "timeYear": 187,
+    "timeDay": 228,
+    "timeWeek": 192,
+    "timeMonth": 190,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2025-11-18": 104,
       "2025-10-12": 3
