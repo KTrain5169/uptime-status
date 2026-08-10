@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/ktrain5369.dev.ico",
     "slug": "root-website-ktrain5369-dev",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 182,
-    "timeDay": 196,
-    "timeWeek": 220,
-    "timeMonth": 203,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2026-04-09": 63,
+      "2025-11-18": 97,
       "2025-12-20": 7,
-      "2025-11-18": 97
+      "2026-04-09": 63
     }
   },
   {
@@ -33,13 +33,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 229,
-    "timeDay": 343,
-    "timeWeek": 431,
-    "timeMonth": 250,
-    "timeYear": 210,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-11-18": 104,
-      "2025-10-12": 3
+      "2025-10-12": 3,
+      "2025-11-18": 104
     }
   },
   {
@@ -48,20 +48,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/socialmediabans-lite.ktrain5369.dev.ico",
     "slug": "no-social-media-bans-lite",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 216,
-    "timeDay": 227,
-    "timeWeek": 400,
-    "timeMonth": 251,
-    "timeYear": 214,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-12-20": 6,
+      "2025-10-12": 3,
       "2025-11-18": 104,
-      "2025-10-12": 3
+      "2025-12-20": 6
     }
   },
   {
@@ -70,25 +70,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/catpacks.ktrain5369.dev.ico",
     "slug": "cat-pack-crafter-docs",
     "status": "up",
-    "uptime": "72.45%",
+    "uptime": "74.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.50%",
+    "uptimeYear": "99.98%",
     "time": 191,
-    "timeDay": 220,
-    "timeWeek": 221,
-    "timeMonth": 218,
-    "timeYear": 194,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-11-18": 94,
-      "2025-11-12": 12,
       "2025-10-12": 3,
-      "2025-06-22": 634,
-      "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440,
-      "2025-06-18": 1440
+      "2025-11-12": 12,
+      "2025-11-18": 94
     }
   },
   {
@@ -97,19 +92,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stardust.ktrain5369.dev.ico",
     "slug": "stardust-info-website",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 191,
-    "timeDay": 230,
-    "timeWeek": 210,
-    "timeMonth": 203,
-    "timeYear": 187,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-11-18": 104,
-      "2025-10-12": 3
+      "2025-10-12": 3,
+      "2025-11-18": 104
     }
   }
 ]
