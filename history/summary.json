@@ -16,7 +16,6 @@
     "timeMonth": 0,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-11-18": 97,
       "2025-12-20": 7,
       "2026-04-09": 63
     }
@@ -37,9 +36,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 191,
-    "dailyMinutesDown": {
-      "2025-11-18": 104
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NoSocialMediaBans Lite",
@@ -58,7 +55,6 @@
     "timeMonth": 0,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-11-18": 104,
       "2025-12-20": 6
     }
   },
@@ -68,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/catpacks.ktrain5369.dev.ico",
     "slug": "cat-pack-crafter-docs",
     "status": "up",
-    "uptime": "78.34%",
+    "uptime": "78.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -78,9 +74,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 176,
-    "dailyMinutesDown": {
-      "2025-11-18": 94
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stardust info website",
@@ -97,9 +91,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 165,
-    "dailyMinutesDown": {
-      "2025-11-18": 104
-    }
+    "timeYear": 164,
+    "dailyMinutesDown": {}
   }
 ]
